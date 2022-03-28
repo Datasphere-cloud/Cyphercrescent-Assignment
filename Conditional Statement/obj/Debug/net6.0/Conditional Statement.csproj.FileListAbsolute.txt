@@ -1,0 +1,15 @@
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\bin\Debug\net6.0\Conditional Statement.exe
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\bin\Debug\net6.0\Conditional Statement.deps.json
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\bin\Debug\net6.0\Conditional Statement.runtimeconfig.json
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\bin\Debug\net6.0\Conditional Statement.dll
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\bin\Debug\net6.0\Conditional Statement.pdb
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.csproj.AssemblyReference.cache
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.AssemblyInfoInputs.cache
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.AssemblyInfo.cs
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.csproj.CoreCompileInputs.cache
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.dll
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\refint\Conditional Statement.dll
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.pdb
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\Conditional Statement.genruntimeconfig.cache
+C:\Users\Brighton\source\repos\Cyphercrescent-Assignment\Conditional Statement\obj\Debug\net6.0\ref\Conditional Statement.dll
